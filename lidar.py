@@ -1,7 +1,7 @@
 import Jetson.GPIO as GPIO
 import time
 
-RX = ttyTHS1
+RX =10
 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(RX, GPIO.IN)
