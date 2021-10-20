@@ -1,3 +1,3 @@
 # tfmini
 
-Interfacing of TFmini lidar 
+Interfacing of TFmini lidar with Jetson nano
